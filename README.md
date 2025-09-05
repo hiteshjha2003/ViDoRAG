@@ -1,6 +1,3 @@
-Here’s a more **technical and elaborated version** of your README for ViDoRAG, enhancing clarity, structure, and details for researchers or engineers who want to reproduce or extend your work:
-
----
 
 # ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents
 
